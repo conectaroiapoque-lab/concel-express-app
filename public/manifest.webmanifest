@@ -1,0 +1,10 @@
+{
+  "name": "Concel Express",
+  "short_name": "Concel",
+  "description": "Solicite coleta para conserto de celular com reparo em até 1 hora.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f5fcf",
+  "lang": "pt-BR"
+}
