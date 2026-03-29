@@ -1,5 +1,6 @@
 // Tela inicial com ações principais em botões grandes para navegação simplificada.
-export default function HomeScreen({ onRequest, onTrack, onAdmin, whatsappUrl }) {
+export default function HomeScreen({ onRequest, onTrack, onAdmin }) {
+  const whatsappUrl = "https://wa.me/5531990008800";
   return (
     <main className="screen card">
       <h1>Conserte seu celular em até 1 hora</h1>
